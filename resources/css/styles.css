@@ -1,0 +1,36 @@
+body {
+    background-color: #d2c7c7;
+}
+
+table {
+    width: 65%;
+    margin: 0 auto;
+    border: 2px solid #d63b3b;
+}
+
+thead {
+    background-color: #c7d2d2;
+}
+
+td {
+    border-top: 1px solid #d63b3b;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: #d63b3b;
+}
+
+.position {
+    font-family: monospace;
+    background-color: beige;
+    min-width: 150px;
+}
+
+td.description {
+    line-height: 1.2;
+}
